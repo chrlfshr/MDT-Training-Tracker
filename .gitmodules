@@ -1,0 +1,6 @@
+[submodule "mdt-training-tracker-client"]
+	path = mdt-training-tracker-client
+	url = git@github.com:chrlfshr/mdt-training-tracker-client.git
+[submodule "mdt-training-tracker-server"]
+	path = mdt-training-tracker-server
+	url = git@github.com:chrlfshr/mdt-training-tracker-server.git
